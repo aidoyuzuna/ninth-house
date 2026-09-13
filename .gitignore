@@ -1,0 +1,17 @@
+# フォルダ
+.claude/logs/
+dist/
+node_modules/
+.wrangler/
+.obsidian/
+.trash/
+
+# ファイル
+.env
+.env.local
+.env.*.local
+.dev.vars
+*.log
+*.tsbuildinfo
+.DS_Store
+.claude/settings.local.json
